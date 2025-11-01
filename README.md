@@ -1,8 +1,9 @@
 <h1 align="center">👋🏻 Hey there! I'm Mauricio</h1>
 
 <p align="center">
-  🎓<b>Software Engineering student at Universidad Veracruzana (UV)</b>
-  💻<b>Object-Oriented Developer | Game Dev Enthusiast | Clean Code Advocate</b>
+  🎓<b> Software Engineering student at Universidad Veracruzana (UV)</b>
+  <br>
+  💻<b> Object-Oriented Developer | Game Dev Enthusiast | Clean Code Advocate</b>
 </p>
 
 ---
@@ -33,19 +34,19 @@ I enjoy writing readable and mantainable code following **clean architecture** a
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-Learning-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### 🧩 Frameworks & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET_Framework-4.7.2-blueviolet?style=for-the-badge&logo=dotnet"/>
-  <img src="https://img.shields.io/badge/WPF-UI-blue?style=for-the-badge&logo=windows"/>
-  <img src="https://img.shields.io/badge/WCF-Communication-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Entity_Framework-6.5.1-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/.NET_Framework-4.7.2-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-UI-blue?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WCF-Communication-blue?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity_Framework-6.5.1-green?style=for-the-badge&logo=dotnet&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-UI-orange?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-ORM-brown?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/log4net-Logging-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/SonarQube-Static%20Analysis-brightgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/log4net-Logging-orange?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SonarQube-Static%20Analysis-brightgreen?style=for-the-badge&logo=sonarqube&logoColor=white"/>
 </p>
 
 ### 🗃️ Databases
