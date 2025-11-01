@@ -12,7 +12,7 @@
 I'm a passionate **software developer in training** who loves bringing to life through **clean, well-structured, and visually appealing software**.
 My main focus is on **object-oriented programming**, **desktop applications**, and **game development**, combining logic, design, and creativity in every project.
 
-I enjoy writing readable and mantainable code following **clean architecture** and **SOLID principles**, while experimenting with UI frameworks that make applications not only functional, but also **beautiful to use**.
+I enjoy writing readable and maintainable code following **clean architecture** and **SOLID principles**, while experimenting with UI frameworks that make applications not only functional, but also **beautiful to use**.
 
 🎯 **Currently exploring:**
 - Scalable architecture with **C#** and **Java**
